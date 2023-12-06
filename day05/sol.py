@@ -1,7 +1,5 @@
-with open ('input.txt', 'r') as data:
+with open ('test.txt', 'r') as data:
     lines = data.read().split('\n\n')
-
-    mapping = {}
 
     seeds = lines[0].split(':')
     seeds = [int(seed) for seed in seeds[1].split()]
