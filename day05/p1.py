@@ -1,4 +1,4 @@
-with open ('test.txt', 'r') as data:
+with open ('input.txt', 'r') as data:
     lines = data.read().split('\n\n')
 
     seeds = lines[0].split(':')
