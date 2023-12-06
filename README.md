@@ -8,3 +8,7 @@ Day 2: Added another solution using RegEx 'cause I love it too much now <3
 Day 3: 15 minutes for writing codes and 150 for debugging...
 
 Day 4: I guess the puzzle tmr will make me feel stupid again
+
+Day 5: How long do I have to debug the stupid part 2 ...
+
+Day 6: I feel lime I'm on a rollercoaster right now
