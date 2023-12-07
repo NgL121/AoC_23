@@ -28,8 +28,6 @@ def get_val(cards):
 def check_card(cards):
     joker_detect = cards.count('J')
 
-    key = ''
-
     if joker_detect == 0:
         key = get_val(cards)
 
