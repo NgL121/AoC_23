@@ -1,6 +1,7 @@
 CARDS = {'high': [], '1 pair': [], '2 pair': [], '3 kind': [], 'full': [], '4 kind': [], '5 kind': []}
+RANK = {}
 BID = {}
-CARD_RANK = {'A':13, 'K':12, 'Q':11,'J':10, 'T':9,'9':8, '8':7,'7':6,'6':5,'5':4,'4':3,'3':2,'2':1}
+CARD_RANK = {'A':13, 'K':12, 'Q':11,'J': 0 , 'T':9,'9':8, '8':7,'7':6,'6':5,'5':4,'4':3,'3':2,'2':1}
 
 
 def check_card(cards):
@@ -53,4 +54,7 @@ with open('input.txt', 'r') as data:
 
         current_stand += len(CARDS[house])
 
+    print(RANK)
+    print(BID)
+    print(CARDS)
     print(output)
