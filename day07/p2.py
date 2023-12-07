@@ -16,7 +16,6 @@ def get_val(cards):
                 return '4 kind'
 
     elif num_cards == 3:
-        added = False
         for card in cards:
             if cards.count(card) == 3:
                 return '3 kind'
