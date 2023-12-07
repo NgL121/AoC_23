@@ -11,4 +11,6 @@ Day 4: I guess the puzzle tmr will make me feel stupid again
 
 Day 5: How long do I have to debug the stupid part 2 ... -> spent the whole day debugging and failing only to find the bug after 5 minutes on the very next day (๑•ૅㅁ•๑)
 
-Day 6: I feel lime I'm on a rollercoaster right now
+Day 6: I feel like I'm on a rollercoaster right now
+
+Day 7: I finally learned how to play poker
