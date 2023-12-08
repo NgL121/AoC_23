@@ -12,9 +12,6 @@ with open('input.txt', 'r') as data:
         node[1] = node[1][1:-1].split(',')
         nodes[node[0].strip()] = [node[1][0].strip(), node[1][1].strip()]
 
-    print(nodes)
-
-
     idx = 0
     step = 0
     current_node = 'AAA'
