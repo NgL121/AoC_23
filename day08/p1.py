@@ -8,8 +8,8 @@ with open('input.txt', 'r') as data:
 
 
     for node in nodes_list:
-        node = node.split('=')
-        node[1] = node[1].strip()[1:-1].split(',')
+        node = node.split(' = ')
+        node[1] = node[1][1:-1].split(',')
         nodes[node[0].strip()] = [node[1][0].strip(), node[1][1].strip()]
 
     print(nodes)
