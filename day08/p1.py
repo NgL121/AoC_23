@@ -20,7 +20,6 @@ with open('input.txt', 'r') as data:
     current_node = 'AAA'
     while idx < len(directions):
 
-        print(current_node)
         direct = directions[idx]
 
         if direct == 'L':
