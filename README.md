@@ -15,4 +15,6 @@ Day 6: I feel like I'm on a rollercoaster right now
 
 Day 7: I finally learned how to play poker
 
-Day 8: I'm still very confused even though my code worked (:3 」∠)
+Day 8: Friendly reminder for future me: READ THE PUZZLE BEFORE WRITING THE CODE
+
+Day 9: I'm still very confused even though my code worked (:3 」∠)
