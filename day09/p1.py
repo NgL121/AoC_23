@@ -7,8 +7,6 @@ with open('input.txt', 'r') as data:
         line = [int(num) for num in line.split()]
         history.append(line[-1])
 
-        current_history = 0
-
         temp = line
 
         while list(set(temp)) != [0]:
@@ -28,9 +26,7 @@ with open('input.txt', 'r') as data:
 
                 # end of a line
                 if idx == len(temp) - 1:
-                    current_history = point
                     history.append(point)
-
 
             temp.pop(0)
             curr_val = temp[0]
