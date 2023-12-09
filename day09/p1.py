@@ -29,7 +29,6 @@ with open('input.txt', 'r') as data:
                     history.append(point)
 
             temp.pop(0)
-            curr_val = temp[0]
 
         output += sum(history)
 
