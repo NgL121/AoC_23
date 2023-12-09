@@ -11,10 +11,6 @@ with open('input.txt', 'r') as data:
 
         while list(set(temp)) != [0]:
             curr_val = temp[0]
-            if len(temp) == 1:
-                while history[-1] != 0:
-                    history.pop()
-                break
 
             for idx, num in enumerate(temp):
                 if idx == 0:
