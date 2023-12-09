@@ -14,3 +14,5 @@ Day 5: How long do I have to debug the stupid part 2 ... -> spent the whole day 
 Day 6: I feel like I'm on a rollercoaster right now
 
 Day 7: I finally learned how to play poker
+
+Day 8: I'm still very confused even though my code worked (:3 」∠)
