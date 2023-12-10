@@ -72,4 +72,4 @@ with open('input.txt', 'r') as data:
         prev, pointer = get_next(prev, pointer)
         step += 1
 
-    print(int(step/2))
+    print(step//2)
