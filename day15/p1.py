@@ -1,8 +1,6 @@
 with open('input.txt', 'r') as data:
     codes = data.readline().split(',')
 
-    print(codes)
-
     output = 0
     for string in codes:
         current_point = 0
